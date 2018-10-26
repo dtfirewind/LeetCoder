@@ -1,0 +1,8 @@
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\bin\Debug\netstandard2.0\LeetCoder.Domain.deps.json
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\bin\Debug\netstandard2.0\LeetCoder.Domain.dll
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\bin\Debug\netstandard2.0\LeetCoder.Domain.pdb
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\obj\Debug\netstandard2.0\LeetCoder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\obj\Debug\netstandard2.0\LeetCoder.Domain.AssemblyInfoInputs.cache
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\obj\Debug\netstandard2.0\LeetCoder.Domain.AssemblyInfo.cs
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\obj\Debug\netstandard2.0\LeetCoder.Domain.dll
+C:\Users\tduan\LeetCoder\LeetCoder.Domain\obj\Debug\netstandard2.0\LeetCoder.Domain.pdb
